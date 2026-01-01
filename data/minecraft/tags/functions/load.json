@@ -1,5 +1,3 @@
 {
-  "values": [
-    "flopia:init"
-  ]
+	"values": ["flopia:init"]
 }

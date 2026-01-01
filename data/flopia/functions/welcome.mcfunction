@@ -16,3 +16,6 @@ playsound entity.ender_dragon.death master @s ~ ~ ~ 1 1
 
 # 6. Огненные частицы
 execute at @s run particle snowflake ~ ~1 ~ 0.5 1 0.5 0.1 100 force
+
+# 7. Новогодний фейерверк при входе
+execute at @s run function flopia:fireworks_show
